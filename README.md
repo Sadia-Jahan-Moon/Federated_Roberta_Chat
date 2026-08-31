@@ -86,7 +86,7 @@ This project uses Federated Learning to protect sensitive user information:
 - A global model is created through federated aggregation
 ## Publication
 
-This project is based on the IEEE conference paper:
+This project is for our IEEE conference paper:
 
 **A Privacy-Focused Classification System for Monitoring Mental Health in One-to-One Chat**
 
