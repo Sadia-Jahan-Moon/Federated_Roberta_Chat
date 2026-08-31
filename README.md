@@ -84,4 +84,28 @@ This project uses Federated Learning to protect sensitive user information:
 - Raw chat data never leaves the user's device
 - Only model parameters are shared
 - A global model is created through federated aggregation
+## Publication
+
+This project is based on the IEEE conference paper:
+
+**A Privacy-Focused Classification System for Monitoring Mental Health in One-to-One Chat**
+
+Published in:
+
+**2025 28th International Conference on Computer and Information Technology (ICCIT)**  
+IEEE Xplore, 2025
+
+
+**DOI:**  
+https://doi.org/10.1109/ICCIT68739.2025.11491280
+
+## How to Cite This Work
+
+If you use this project or refer to this research, please cite:
+
+> S. J. Moon, M. A. Rahman, F. Hossain, and M. A. Hannan, "A Privacy-Focused Classification System for Monitoring Mental Health in One-to-One Chat," *2025 28th International Conference on Computer and Information Technology (ICCIT)*, Cox's Bazar, Bangladesh, 2025, pp. 3824-3829, doi: 10.1109/ICCIT68739.2025.11491280.
+
+**Keywords:** Federated learning, mental health detection, non-IID data, one-to-one private chat, privacy-preserving machine learning, natural language processing.
+
+
 
